@@ -1,0 +1,8 @@
+{
+    "data":{
+        "fontFamily":["Segoe UI","Arial","sans-serif"],
+        "fontColor":"#5f5f5f",
+        "backgroundColor":"#f1f1f1",
+        "h2Color":"#4CAF50"
+    }
+}
